@@ -8,19 +8,7 @@ NavDisplay captures Google Maps navigation instructions from an Android device a
 
 ## 🎥 Demo
 
-<img width="1728" height="2304" alt="IMG_20260704_172856" src="https://github.com/user-attachments/assets/1e1b70cd-812f-4651-b193-ba1988fa8d9b" />
-<img width="1689" height="2252" alt="IMG_20260705_234219" src="https://github.com/user-attachments/assets/18d13101-c383-4901-be63-53d1f2af9a7d" />
-<img width="2017" height="1513" alt="IMG_20260706_213529" src="https://github.com/user-attachments/assets/936dc3af-5405-4d4e-a659-fb16c0b1505e" />
-<img width="2614" height="1960" alt="IMG_20260706_213532" src="https://github.com/user-attachments/assets/f4c47b6d-b684-4116-b2e2-1c88d55a40cd" />
-<img width="1220" height="2712" alt="Screenshot_2026-07-07-14-09-12-261_com nandu navdisplay" src="https://github.com/user-attachments/assets/898a639b-2c34-4ccd-ac91-17121e380176" />
-<img width="1220" height="2712" alt="Screenshot_2026-07-07-14-09-14-934_com nandu navdisplay" src="https://github.com/user-attachments/assets/9d723eb0-edc6-43fb-8708-8aaaab6af9bd" />
-<img width="1220" height="2712" alt="Screenshot_2026-07-07-14-09-18-588_com nandu navdisplay" src="https://github.com/user-attachments/assets/46467544-36ed-45e7-90e1-a92987b708a6" />
-<img width="1220" height="2712" alt="Screenshot_2026-07-07-14-09-22-932_com nandu navdisplay" src="https://github.com/user-attachments/assets/1c2290db-e49c-4058-826c-adcf219f244b" />
-
-
-
-
-
+attached videos and photos
 
 
 ---
