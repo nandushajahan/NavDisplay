@@ -38,6 +38,43 @@ attached videos and photos
 
 ---
 
+               +----------------------+
+               |      ESP32 DevKit    |
+               |                      |
+3.3V  -------->| 3V3              GND |<--------- GND
+GPIO23 ------->| MOSI                 |
+GPIO19 <-------| MISO                 |
+GPIO18 ------->| SCK                  |
+GPIO5  ------->| CS                   |
+GPIO2  ------->| DC                   |
+GPIO4  ------->| RST                  |
+3.3V  -------->| LED                  |
+               +----------------------+
+                       │
+                       │ SPI
+                       ▼
+          +----------------------------+
+          |      ILI9341 TFT           |
+          | VCC  -> 3.3V               |
+          | GND  -> GND                |
+          | CS   -> GPIO5              |
+          | RESET-> GPIO4              |
+          | DC   -> GPIO2              |
+          | MOSI -> GPIO23             |
+          | MISO -> GPIO19             |
+          | SCK  -> GPIO18             |
+          | LED  -> 3.3V               |
+          +----------------------------+
+
+            Android App
+                  │
+        Bluetooth (SPP/BLE)
+                  │
+                  ▼
+               ESP32
+
+ -----------              
+
 # Software
 
 ### Android
